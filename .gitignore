@@ -1,0 +1,26 @@
+# Environments
+.env
+
+# Virtual environments
+.venv/
+env/
+venv/
+ENV/
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+
+# Data and output
+output/
+*_output.json
+*.pdf
+
+# Allow the specific samples we have
+!data/samples/*.pdf
+
+# OS generated
+.DS_Store
+Thumbs.db
