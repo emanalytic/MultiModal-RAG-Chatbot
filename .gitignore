@@ -13,10 +13,6 @@ __pycache__/
 *$py.class
 *.so
 
-# Data and output
-output/
-*_output.json
-*.pdf
 
 # Allow the specific samples we have
 !data/samples/*.pdf

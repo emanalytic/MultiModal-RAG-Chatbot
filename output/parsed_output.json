@@ -1,0 +1,252 @@
+[
+  {
+    "id": "chunk_001",
+    "type": "figure",
+    "images": [
+      "image_p1_001.jpeg"
+    ],
+    "page_number": 1,
+    "tokens": 0,
+    "metadata": {}
+  },
+  {
+    "id": "chunk_002",
+    "type": "heading",
+    "text": "Lorem ipsum",
+    "page_number": 1,
+    "position": [
+      206.0,
+      69.7,
+      389.4,
+      100.9
+    ],
+    "tokens": 2,
+    "metadata": {}
+  },
+  {
+    "id": "chunk_003",
+    "type": "heading",
+    "text": "Lorem ipsum dolor sit amet, consectetur adipiscing\nelit. Nunc ac faucibus odio.",
+    "page_number": 1,
+    "position": [
+      56.8,
+      145.5,
+      521.4,
+      186.3
+    ],
+    "tokens": 19,
+    "metadata": {}
+  },
+  {
+    "id": "chunk_004",
+    "type": "paragraph",
+    "text": "Vestibulum neque massa, scelerisque sit amet ligula eu, congue molestie mi. Praesent ut\nvarius sem. Nullam at porttitor arcu, nec lacinia nisi. Ut ac dolor vitae odio interdum\ncondimentum.Vivamus dapibus sodales ex, vitae malesuada ipsum cursus\nconvallis. Maecenas sed egestas nulla, ac condimentum orci. Mauris diam felis,\nvulputate ac suscipit et, iaculis non est. Curabitur semper arcu ac ligula semper, nec luctus\nnisl blandit. Integer lacinia ante ac libero lobortis imperdiet. Nullam mollis convallis ipsum,\nac accumsan nunc vehicula vitae. Nulla eget justo in felis tristique fringilla. Morbi sit amet\ntortor quis risus auctor condimentum. Morbi in ullamcorper elit. Nulla iaculis tellus sit amet\nmauris tempus fringilla.\nMaecenas mauris lectus, lobortis et purus mattis, blandit dictum tellus.\n\nMaecenas non lorem quis tellus placerat varius.\n\nNulla facilisi.\n\nAenean congue fringilla justo ut aliquam.\n\nMauris id ex erat. Nunc vulputate neque vitae justo facilisis, non condimentum ante\nsagittis.\n\nMorbi viverra semper lorem nec molestie.\n\nMaecenas tincidunt est efficitur ligula euismod, sit amet ornare est vulputate.\n12\n10\n8\nColumn 1\nColumn 2\nColumn 3\n6\n4\n2\nRow 1\nRow 2\nRow 3\nRow 4\n0",
+    "page_number": 1,
+    "position": [
+      56.1,
+      218.3,
+      540.0,
+      737.2
+    ],
+    "section_heading": "Lorem ipsum dolor sit amet, consectetur adipiscing\nelit. Nunc ac faucibus odio.",
+    "tokens": 409,
+    "metadata": {}
+  },
+  {
+    "id": "chunk_005",
+    "type": "table",
+    "text": "|  | Lorem ipsum | Lorem ipsum | Lorem ipsum |\n|---|---|---|---|\n| 1 | In eleifend velit vitae libero sollicitudin euismod. | Lorem |  |\n| 2 | Cras fringilla ipsum magna, in fringilla dui commodo a. | Ipsum |  |\n| 3 | Aliquam erat volutpat. | Lorem |  |\n| 4 | Fusce vitae vestibulum velit. | Lorem |  |\n| 5 | Etiam vehicula luctus fermentum. | Ipsum |  |",
+    "tables": [
+      [
+        "",
+        "Lorem ipsum",
+        "Lorem ipsum",
+        "Lorem ipsum"
+      ],
+      [
+        "1",
+        "In eleifend velit vitae libero sollicitudin euismod.",
+        "Lorem",
+        ""
+      ],
+      [
+        "2",
+        "Cras fringilla ipsum magna, in fringilla dui commodo\na.",
+        "Ipsum",
+        ""
+      ],
+      [
+        "3",
+        "Aliquam erat volutpat.",
+        "Lorem",
+        ""
+      ],
+      [
+        "4",
+        "Fusce vitae vestibulum velit.",
+        "Lorem",
+        ""
+      ],
+      [
+        "5",
+        "Etiam vehicula luctus fermentum.",
+        "Ipsum",
+        ""
+      ]
+    ],
+    "page_number": 2,
+    "position": [
+      56.7,
+      56.7,
+      539.1,
+      785.2
+    ],
+    "section_heading": "Lorem ipsum dolor sit amet, consectetur adipiscing\nelit. Nunc ac faucibus odio.",
+    "tokens": 124,
+    "metadata": {}
+  },
+  {
+    "id": "chunk_006",
+    "type": "heading",
+    "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+    "page_number": 3,
+    "position": [
+      74.8,
+      57.3,
+      521.4,
+      98.1
+    ],
+    "tokens": 10,
+    "metadata": {}
+  },
+  {
+    "id": "chunk_007",
+    "type": "paragraph",
+    "text": "Nunc ac faucibus odio. Vestibulum neque massa, scelerisque sit amet ligula eu, congue\nmolestie mi. Praesent ut varius sem. Nullam at porttitor arcu, nec lacinia nisi. Ut ac dolor\nvitae odio interdum condimentum. Vivamus dapibus sodales ex, vitae malesuada ipsum\ncursus convallis. Maecenas sed egestas nulla, ac condimentum orci. Mauris diam felis,\nvulputate ac suscipit et, iaculis non est. Curabitur semper arcu ac ligula semper, nec luctus\nnisl blandit. Integer lacinia ante ac libero lobortis imperdiet. Nullam mollis convallis ipsum,\nac accumsan nunc vehicula vitae. Nulla eget justo in felis tristique fringilla. Morbi sit amet\ntortor quis risus auctor condimentum. Morbi in ullamcorper elit. Nulla iaculis tellus sit amet\nmauris tempus fringilla.",
+    "page_number": 3,
+    "position": [
+      56.8,
+      130.1,
+      538.1,
+      259.9
+    ],
+    "section_heading": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+    "tokens": 237,
+    "metadata": {}
+  },
+  {
+    "id": "chunk_008",
+    "type": "heading",
+    "text": "Maecenas mauris lectus, lobortis et purus mattis, blandit dictum tellus.",
+    "page_number": 3,
+    "position": [
+      74.8,
+      284.1,
+      510.9,
+      320.4
+    ],
+    "tokens": 24,
+    "metadata": {}
+  },
+  {
+    "id": "chunk_009",
+    "type": "paragraph",
+    "text": "Maecenas non lorem quis tellus placerat varius. Nulla facilisi. Aenean congue fringilla justo\nut aliquam. Mauris id ex erat. Nunc vulputate neque vitae justo facilisis, non condimentum\nante sagittis. Morbi viverra semper lorem nec molestie. Maecenas tincidunt est efficitur\nligula euismod, sit amet ornare est vulputate.\nIn non mauris justo. Duis vehicula mi vel mi pretium, a viverra erat efficitur. Cras aliquam\nest ac eros varius, id iaculis dui auctor. Duis pretium neque ligula, et pulvinar mi placerat\net. Nulla nec nunc sit amet nunc posuere vestibulum. Ut id neque eget tortor mattis\ntristique. Donec ante est, blandit sit amet tristique vel, lacinia pulvinar arcu. Pellentesque\nscelerisque fermentum erat, id posuere justo pulvinar ut. Cras id eros sed enim aliquam\nlobortis. Sed lobortis nisl ut eros efficitur tincidunt. Cras justo mi, porttitor quis mattis vel,\nultricies ut purus. Ut facilisis et lacus eu cursus.",
+    "page_number": 3,
+    "position": [
+      56.8,
+      326.5,
+      538.2,
+      496.9
+    ],
+    "section_heading": "Maecenas mauris lectus, lobortis et purus mattis, blandit dictum tellus.",
+    "tokens": 291,
+    "metadata": {}
+  },
+  {
+    "id": "chunk_010",
+    "type": "heading",
+    "text": "In eleifend velit vitae libero sollicitudin euismod.",
+    "page_number": 3,
+    "position": [
+      74.8,
+      521.1,
+      447.0,
+      539.0
+    ],
+    "tokens": 15,
+    "metadata": {}
+  },
+  {
+    "id": "chunk_011",
+    "type": "paragraph",
+    "text": "Fusce vitae vestibulum velit. Pellentesque vulputate lectus quis pellentesque commodo.\nAliquam erat volutpat. Vestibulum in egestas velit. Pellentesque fermentum nisl vitae\nfringilla venenatis. Etiam id mauris vitae orci maximus ultricies. Cras fringilla ipsum\nmagna, in fringilla dui commodo a.\nEtiam vehicula luctus fermentum. In vel metus congue, pulvinar lectus vel, fermentum dui.\nMaecenas ante orci, egestas ut aliquet sit amet, sagittis a magna. Aliquam ante quam,\npellentesque ut dignissim quis, laoreet eget est. Aliquam erat volutpat. Class aptent taciti\nsociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Ut ullamcorper\njusto sapien, in cursus libero viverra eget. Vivamus auctor imperdiet urna, at pulvinar leo\nposuere laoreet. Suspendisse neque nisl, fringilla at iaculis scelerisque, ornare vel dolor. Ut\net pulvinar nunc. Pellentesque fringilla mollis efficitur. Nullam venenatis commodo\nimperdiet. Morbi velit neque, semper quis lorem quis, efficitur dignissim ipsum. Ut ac lorem\nsed turpis imperdiet eleifend sit amet id sapien.",
+    "page_number": 3,
+    "position": [
+      56.8,
+      545.1,
+      538.3,
+      744.9
+    ],
+    "section_heading": "In eleifend velit vitae libero sollicitudin euismod.",
+    "tokens": 333,
+    "metadata": {}
+  },
+  {
+    "id": "chunk_012",
+    "type": "heading",
+    "text": "Maecenas mauris lectus, lobortis et purus mattis, blandit dictum tellus.",
+    "page_number": 4,
+    "position": [
+      74.8,
+      414.9,
+      510.9,
+      451.2
+    ],
+    "tokens": 24,
+    "metadata": {}
+  },
+  {
+    "id": "chunk_013",
+    "type": "paragraph",
+    "text": "Maecenas non lorem quis tellus placerat varius. Nulla facilisi. Aenean congue fringilla justo\nut aliquam. Mauris id ex erat. Nunc vulputate neque vitae justo facilisis, non condimentum\nante sagittis. Morbi viverra semper lorem nec molestie. Maecenas tincidunt est efficitur\nligula euismod, sit amet ornare est vulputate.\nIn non mauris justo. Duis vehicula mi vel mi pretium, a viverra erat efficitur. Cras aliquam\nest ac eros varius, id iaculis dui auctor. Duis pretium neque ligula, et pulvinar mi placerat\net. Nulla nec nunc sit amet nunc posuere vestibulum. Ut id neque eget tortor mattis\ntristique. Donec ante est, blandit sit amet tristique vel, lacinia pulvinar arcu. Pellentesque\nscelerisque fermentum erat, id posuere justo pulvinar ut. Cras id eros sed enim aliquam\nlobortis. Sed lobortis nisl ut eros efficitur tincidunt. Cras justo mi, porttitor quis mattis vel,\nultricies ut purus. Ut facilisis et lacus eu cursus.",
+    "page_number": 4,
+    "position": [
+      56.8,
+      457.2,
+      538.2,
+      627.7
+    ],
+    "section_heading": "Maecenas mauris lectus, lobortis et purus mattis, blandit dictum tellus.",
+    "tokens": 291,
+    "metadata": {}
+  },
+  {
+    "id": "chunk_014",
+    "type": "heading",
+    "text": "In eleifend velit vitae libero sollicitudin euismod.",
+    "page_number": 4,
+    "position": [
+      74.8,
+      651.9,
+      447.0,
+      669.8
+    ],
+    "tokens": 15,
+    "metadata": {}
+  },
+  {
+    "id": "chunk_015",
+    "type": "paragraph",
+    "text": "Fusce vitae vestibulum velit. Pellentesque vulputate lectus quis pellentesque commodo.\nAliquam erat volutpat. Vestibulum in egestas velit. Pellentesque fermentum nisl vitae\nfringilla venenatis. Etiam id mauris vitae orci maximus ultricies. Cras fringilla ipsum\nmagna, in fringilla dui commodo a.\nEtiam vehicula luctus fermentum. In vel metus congue, pulvinar lectus vel, fermentum dui.\nMaecenas ante orci, egestas ut aliquet sit amet, sagittis a magna. Aliquam ante quam,\npellentesque ut dignissim quis, laoreet eget est. Aliquam erat volutpat. Class aptent taciti\nsociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Ut ullamcorper\njusto sapien, in cursus libero viverra eget. Vivamus auctor imperdiet urna, at pulvinar leo\nposuere laoreet. Suspendisse neque nisl, fringilla at iaculis scelerisque, ornare vel dolor. Ut\net pulvinar nunc. Pellentesque fringilla mollis efficitur. Nullam venenatis commodo\nimperdiet. Morbi velit neque, semper quis lorem quis, efficitur dignissim ipsum. Ut ac lorem\nsed turpis imperdiet eleifend sit amet id sapien.",
+    "page_number": 4,
+    "section_heading": "In eleifend velit vitae libero sollicitudin euismod.",
+    "tokens": 333,
+    "metadata": {
+      "pages": [
+        4,
+        5
+      ]
+    }
+  }
+]
