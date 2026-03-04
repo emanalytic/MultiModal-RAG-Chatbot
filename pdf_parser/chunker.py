@@ -2,9 +2,6 @@
 Semantic chunker — assembles raw extracted elements (text blocks, tables,
 images) into coherent ContentElement chunks.
 
-This is where the "magic" happens: instead of rigid page-by-page splitting,
-we use soft heuristics to group related content together:
-
     - Text under the same heading → same section
     - Tables near related text → linked via section_heading
     - Figures near captions → merged into a single figure element
@@ -59,7 +56,6 @@ def build_chunks(pages: list[PageLayout]) -> list[ContentElement]:
             if img.get("bbox") and len(img["bbox"]) >= 4
         ]
 
-        # --- Build a unified list of all items sorted by vertical position ---
         items = []
 
         for block in layout.text_blocks:
@@ -333,7 +329,7 @@ def _merge_adjacent_headings(elements: list[ContentElement]) -> list[ContentElem
 def _vertically_close(bbox1, bbox2, max_gap: float = 30.0) -> bool:
     """Check if two bboxes are vertically adjacent (within max_gap points)."""
     if not bbox1 or not bbox2 or len(bbox1) < 4 or len(bbox2) < 4:
-        return True  # if we can't tell, assume close
+        return True  # if can't tell, assume close
     gap = abs(bbox2[1] - bbox1[3])
     return gap <= max_gap
 
