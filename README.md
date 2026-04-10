@@ -37,7 +37,7 @@ The system uses multiple methods to ensure no information is lost:
 
 The system uses a two-step process to find answers:
 
-1. **Initial Search**: Converts your question and the document sections into mathematical values (embeddings). It quickly finds the sections that are most similar to your question.
+1. **Initial Search**: Converts your question and the document sections intoembeddings. It quickly finds the sections that are most similar to your question.
 2. **Relevance Ranking**: Takes the best sections from the initial search and performs a second, more precise check to ensure the information directly addresses your request.
 
 ### Alternative Model Options
